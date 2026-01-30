@@ -15,13 +15,9 @@ CLARANS is an efficient partitioning-based clustering algorithm designed for lar
 
 ## Visualizations
 
-````carousel
-![Original Data](/AI&BD/original_data.png)
-<!-- slide -->
-![CLARANS Clustering](/AI&BD/clarans_clusters.png)
-<!-- slide -->
-![K-Means Clustering](/AI&BD/kmeans_clusters.png)
-````
+![Original Data](original_data.png)
+![CLARANS Clustering](clarans_clusters.png)
+![K-Means Clustering](kmeans_clusters.png)
 
 ## Dataset
 
